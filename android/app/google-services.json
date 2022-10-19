@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "294346248645",
+    "project_id": "flutter-collablogin",
+    "storage_bucket": "flutter-collablogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294346248645:android:37e3f0b19f110c09ac7bac",
+        "android_client_info": {
+          "package_name": "com.example.collab_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294346248645-5hv5cutbtndjutv5qv6afqbd4oo9ug9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHUpiZa5CLkawKQwguO4U6QSayzLvlejI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294346248645-5hv5cutbtndjutv5qv6afqbd4oo9ug9k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
